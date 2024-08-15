@@ -44,7 +44,8 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-*'git clone https://github.com/your-username/your-repo-name.git'*
+![API Time](https://github.com/user-attachments/assets/82b2b5eb-180e-4588-8c22-8c053f83f4af)
+git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 2. Configure Google Cloud SDK
 Authenticate with Google Cloud:
@@ -99,6 +100,7 @@ Ensure that the following secrets are set in your GitHub repository:
 GCP_PROJECT_ID
 GCP_SA_KEY (Service Account Key JSON)
 Clean Up
+![API Time](https://github.com/user-attachments/assets/f4c9c462-47ad-446c-b62a-57c45800acfd)
 
 To clean up resources created by Terraform:
 
