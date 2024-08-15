@@ -37,18 +37,6 @@ Before starting, ensure you have the following tools installed:
 └── README.md                 # Project README file
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Setup Instructions
 
 1. Clone the Repository
@@ -56,7 +44,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+*'git clone https://github.com/your-username/your-repo-name.git'*
 cd your-repo-name
 2. Configure Google Cloud SDK
 Authenticate with Google Cloud:
